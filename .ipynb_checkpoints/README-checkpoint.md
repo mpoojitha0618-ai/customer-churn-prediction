@@ -1,0 +1,1 @@
+This project was developed by Muddapappu Poojitha and is based on publicly available customer churn prediction work. Additional preprocessing, model training, evaluation, and documentation were performed as part of an internship project.
